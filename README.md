@@ -13,5 +13,4 @@ La forma más sencilla de comenzar con su aplicación.
 `npm start`
 
 ### `Visualizacion`
-![](assets/login.jpeg)
-![](assets/login_error.jpeg)
+![](assets/loginscreen.jpeg)
